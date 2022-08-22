@@ -1,0 +1,20 @@
+.card {
+
+    margin-left: 600px;
+
+    margin-top: 50px;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(131, 87, 56)
+}
+
+form.form {
+    margin-left: 720px;
+}
+
+h1 {
+    margin-left: 600px;
+    margin-top: 250px;
+}
